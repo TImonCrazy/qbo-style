@@ -1,0 +1,48 @@
+@-moz-document domain("qbo.intuit.com") {
+.dgrid-cell {
+	line-height: 16px !important;
+}
+.dijitSelect {
+	height: 18px !important;
+}
+.dijitInputInner {
+	height: 18px !important;
+}
+.dijitButtonNode {
+	height: 18px !important;
+}
+.rowSpacer {
+	margin-top: 2px !important;
+}
+.dropDownImage {
+	padding: 3px 9px 4px 9px !important;
+}
+.dijitReset .dijitMenuItem {
+	padding: 0px 8px !important;
+}
+.comboboxItemName {
+	margin: 2px !important;
+	padding-top: 0px !important;
+}
+._klass {
+	display: none;
+}
+.dijitTextArea {
+	padding: 0px 2px;
+}
+.companyLogo {
+	display: none;
+}
+.homepage .date {
+	display: none;
+}
+.timetracking-header {
+	padding-bottom: 0px !important;
+}
+timetracking-footer {
+	display: none;
+}
+.companyName {
+	display: none;
+}
+}
